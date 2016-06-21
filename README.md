@@ -149,8 +149,8 @@ $ composer test
 
 ## Todo
 
-*Better documentation - in progress as you can see :)
-*Implementing the rest of the API. :)
+* Better documentation - in progress as you can see :)
+* Implementing the rest of the API. :)
 
 
 ## Contributing

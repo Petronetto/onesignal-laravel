@@ -46,7 +46,7 @@ Update **Facade**
 
 ## Configuration
 
-``` php
+``` bash
  php artisan vendor:publish --provider="Greedchikara\Onesignal\SendyServiceProvider"
 ```
 It will create **onesignal.php** within the **config directory**.

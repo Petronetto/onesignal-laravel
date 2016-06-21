@@ -14,13 +14,13 @@ A service provider for Onesignal API in Laravel 5
 Via Composer
 
 ``` bash
-$ composer require greedchikara/onesignal
+$ composer require greedchikara/onesignal dev-master
 ```
 or append your composer.json with:
 
 ``` json
 "require": {
-    "greedchikara/onesignal": "1.*"
+    "greedchikara/onesignal": "dev-master"
 },
 ```
 
@@ -40,14 +40,14 @@ Update **Facade**
 ``` php
 'aliases' => [
     ...
-    'Onesignal' => 'greedchikara\Onesignal\Facade\Onesignal',
+    'Onesignal' => 'greedchikara\Onesignal\Facades\Onesignal',
 ]
 ```
 
 ## Configuration
 
 ``` bash
- php artisan vendor:publish --provider="Greedchikara\Onesignal\SendyServiceProvider"
+ php artisan vendor:publish --provider="greedchikara\Onesignal\OneSignalServiceProvider"
 ```
 It will create **onesignal.php** within the **config directory**.
 

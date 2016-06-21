@@ -1,5 +1,5 @@
 {
-    "name": "greedchikara/Onesignal",
+    "name": "greedchikara/onesignal",
     "type": "library",
     "description": ":This is a wrapper for One Signal php apis",
     "keywords": [

@@ -1,18 +1,18 @@
 {
     "name": "greedchikara/onesignal",
     "type": "library",
-    "description": ":This is a wrapper for One Signal php apis",
+    "description": "This is a wrapper for One Signal php apis",
     "keywords": [
         "greedchikara",
         "Onesignal"
     ],
-    "homepage": "https://github.com/greedchikara/Onesignal",
+    "homepage": "https://github.com/greedchikara/onesignal-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": ":shanky",
-            "email": ":negiakash@gmail.com",
-            "homepage": ":shanky.me",
+            "name": "shanky",
+            "email": "negiakash@gmail.com",
+            "homepage": "shanky.me",
             "role": "Developer"
         }
     ],
